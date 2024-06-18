@@ -2,4 +2,4 @@
 pydantic
 Pillow
 fastapi
-starlette<0.26
+starlette<0.38
